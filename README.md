@@ -130,7 +130,6 @@ python stocks/news_agent.py
 python crypto/solana_wallet_agent/agent.py
 python crypto/token-sentiment-tracker/agent.py
 ```
-
 ---
 
 ## AgentVerse Deployment 
@@ -142,20 +141,5 @@ You can register agents (e.g., Solana or Token Tracker) to [AgentVerse](https://
 ## Project Pitch
 
 >**"FinWell is a decentralized personal finance & wellness agent network that helps users manage stock investments, crypto portfolios, and health coverage through intelligent, autonomous agents. Powered by Fetch.ai's uAgents framework, ChatProtocol, and ASI1 Mini LLM, it delivers conversational access to expert insights across domains—making your financial and wellness decisions smarter, faster, and fully connected."**
-
 ---
-
-## Contributors
-
-- [Pooja Shree S](https://github.com/Pooja29Shree)
-- [Kavinesh P](https://github.com/Kavinesh11)
-- [Swapneel](https://github.com/SWAPNEEL983)
-- [Akshay KS](https://github.com/akshayks13)
-
----
-## Links
-- [Youtube](https://youtu.be/YB_L2Te5VQk)
-- [Devpost](https://devpost.com/software/finwell-your-personal-finance-health-copilot-on-fetch-ai)
-- [Medium Blog](https://medium.com/@24f2007585/finwell-your-personal-finance-wellness-copilot-e5f26f727f08)
-
 Let FinWell guide your financial and wellness journey.
